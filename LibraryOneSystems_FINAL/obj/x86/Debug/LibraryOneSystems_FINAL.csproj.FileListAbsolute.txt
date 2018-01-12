@@ -1,0 +1,62 @@
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.exe
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.pdb
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.Properties.Resources.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.csproj.GenerateResource.Cache
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.exe
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.pdb
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LoadingForm.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.exe.config
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryData.accdb
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTRATION_student.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_student.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTRATION_book.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_admin.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_book.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_student.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_borrow.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LOGIN_main.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LOGIN_student.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.SETTINGS_admin.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTER_librarian.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_admin.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.VALIDATION_email.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_librarianTime.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_librarian.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_librarian.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.SETTINGS_resetPassword.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.PRINT_userLog_form.resources
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\RdlCompile.cache
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kennlising\Desktop\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.PRINT_bookLog_form.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.exe.config
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.exe
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.pdb
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryData.accdb
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.exe
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\bin\Debug\LibraryOneSystems_FINAL.pdb
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_admin.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_borrow.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_librarian.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.BOARD_student.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_admin.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_book.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_librarian.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_librarianTime.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.EDIT_student.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LoadingForm.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LOGIN_main.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.PRINT_bookLog_form.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.PRINT_userLog_form.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.Properties.Resources.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTER_librarian.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTRATION_book.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.REGISTRATION_student.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.LOGIN_student.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.SETTINGS_admin.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.SETTINGS_resetPassword.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.VALIDATION_email.resources
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\LibraryOneSystems_FINAL.csproj.GenerateResource.Cache
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\RdlCompile.cache
+C:\Users\kennlising\Desktop\Fin Proje\LibraryOneSystems_FINAL\LibraryOneSystems_FINAL\obj\x86\Debug\RdlCompile.compiled

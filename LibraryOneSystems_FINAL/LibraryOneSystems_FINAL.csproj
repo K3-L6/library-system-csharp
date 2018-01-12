@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D3666AFC-8715-48B7-AB67-75B217B58BF4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryOneSystems_FINAL</RootNamespace>
+    <AssemblyName>LibraryOneSystems_FINAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LOSicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BOARD_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOARD_admin.Designer.cs">
+      <DependentUpon>BOARD_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOARD_borrow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOARD_borrow.Designer.cs">
+      <DependentUpon>BOARD_borrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOARD_librarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOARD_librarian.Designer.cs">
+      <DependentUpon>BOARD_librarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOARD_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOARD_student.Designer.cs">
+      <DependentUpon>BOARD_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DATABASE_admin.cs" />
+    <Compile Include="DATABASE_book.cs" />
+    <Compile Include="DATABASE_bookLog.cs" />
+    <Compile Include="DATABASE_librarian.cs" />
+    <Compile Include="DATABASE_librarianLog.cs" />
+    <Compile Include="DATABASE_studentLog.cs" />
+    <Compile Include="LibraryDataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryDataDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoadToForm_Trans.cs" />
+    <Compile Include="EDIT_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIT_admin.Designer.cs">
+      <DependentUpon>EDIT_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDIT_book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIT_book.Designer.cs">
+      <DependentUpon>EDIT_book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDIT_librarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIT_librarian.Designer.cs">
+      <DependentUpon>EDIT_librarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDIT_librarianTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIT_librarianTime.Designer.cs">
+      <DependentUpon>EDIT_librarianTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDIT_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIT_student.Designer.cs">
+      <DependentUpon>EDIT_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFO_admin.cs" />
+    <Compile Include="INFO_librarian.cs" />
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadToForm.cs" />
+    <Compile Include="MailSystem.cs" />
+    <Compile Include="LOGIN_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_main.Designer.cs">
+      <DependentUpon>LOGIN_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRINT_bookLog_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRINT_bookLog_form.Designer.cs">
+      <DependentUpon>PRINT_bookLog_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRINT_userLog_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRINT_userLog_form.Designer.cs">
+      <DependentUpon>PRINT_userLog_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTER_librarian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTER_librarian.Designer.cs">
+      <DependentUpon>REGISTER_librarian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRATION_book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRATION_book.Designer.cs">
+      <DependentUpon>REGISTRATION_book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REGISTRATION_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REGISTRATION_student.Designer.cs">
+      <DependentUpon>REGISTRATION_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DATABASE_student.cs" />
+    <Compile Include="LOGIN_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_student.Designer.cs">
+      <DependentUpon>LOGIN_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SETTINGS_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SETTINGS_admin.Designer.cs">
+      <DependentUpon>SETTINGS_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SETTINGS_resetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SETTINGS_resetPassword.Designer.cs">
+      <DependentUpon>SETTINGS_resetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDATION_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VALIDATION_email.Designer.cs">
+      <DependentUpon>VALIDATION_email.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BOARD_admin.resx">
+      <DependentUpon>BOARD_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOARD_borrow.resx">
+      <DependentUpon>BOARD_borrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOARD_librarian.resx">
+      <DependentUpon>BOARD_librarian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOARD_student.resx">
+      <DependentUpon>BOARD_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIT_admin.resx">
+      <DependentUpon>EDIT_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIT_book.resx">
+      <DependentUpon>EDIT_book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIT_librarian.resx">
+      <DependentUpon>EDIT_librarian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIT_librarianTime.resx">
+      <DependentUpon>EDIT_librarianTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIT_student.resx">
+      <DependentUpon>EDIT_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN_main.resx">
+      <DependentUpon>LOGIN_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINT_bookLog_form.resx">
+      <DependentUpon>PRINT_bookLog_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINT_userLog_form.resx">
+      <DependentUpon>PRINT_userLog_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="REGISTER_librarian.resx">
+      <DependentUpon>REGISTER_librarian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRATION_book.resx">
+      <DependentUpon>REGISTRATION_book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REGISTRATION_student.resx">
+      <DependentUpon>REGISTRATION_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN_student.resx">
+      <DependentUpon>LOGIN_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="SETTINGS_admin.resx">
+      <DependentUpon>SETTINGS_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SETTINGS_resetPassword.resx">
+      <DependentUpon>SETTINGS_resetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VALIDATION_email.resx">
+      <DependentUpon>VALIDATION_email.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LibraryDataDataSet.xsc">
+      <DependentUpon>LibraryDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataDataSet.xss">
+      <DependentUpon>LibraryDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataDataSet1.xsc">
+      <DependentUpon>LibraryDataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataDataSet1.xss">
+      <DependentUpon>LibraryDataDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LibraryData.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="LOSicon.ico" />
+    <None Include="Resources\bgSplash.jpg" />
+    <None Include="Resources\infoChangeIcon.png" />
+    <None Include="Resources\updateTimeIcon.png" />
+    <None Include="Resources\updateIcon.png" />
+    <None Include="Resources\backIcon.png" />
+    <None Include="Resources\saveIcon.png" />
+    <None Include="Resources\allDeleteIcon.png" />
+    <None Include="Resources\returnIcon.png" />
+    <None Include="Resources\borrowIcon.png" />
+    <None Include="Resources\printIcon.png" />
+    <None Include="Resources\deleteIcon.png" />
+    <None Include="Resources\editIcon.png" />
+    <None Include="Resources\addIcon.png" />
+    <None Include="Resources\studentIcon.png" />
+    <None Include="Resources\passwordIcon.png" />
+    <None Include="Resources\userIcon.png" />
+    <None Include="Resources\loginIcon1.png" />
+    <None Include="Resources\loginIcon.png" />
+    <None Include="Resources\logoutIcon.png" />
+    <None Include="Resources\settingIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
